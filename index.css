@@ -1,0 +1,16 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+form
+{
+    background-color: aqua;
+    padding:50px;
+    display: block;
+}
+label
+{
+    width:30%;
+    display: block;
+}
